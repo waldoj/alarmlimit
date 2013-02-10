@@ -15,7 +15,7 @@ gcc -Wall -ansi alarmlimit.c -o alarmlimit
 Run it:
 
 ```
-alarmlimit *[time in seconds]* *[process]*
+alarmlimit [time in seconds] [process]
 ```
 
 For example:
